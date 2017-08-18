@@ -3,10 +3,10 @@
 
 installasi
 
-`npm init`
-`npm install -g gulp` // jika kalian belum pernah install gulp global
-`npm install --save-dev gulp`
-`npm install --save-dev gulp-sass`
+`npm init`<br>
+`npm install -g gulp` // jika kalian belum pernah install gulp global<br>
+`npm install --save-dev gulp`<br>
+`npm install --save-dev gulp-sass`<br>
 
 maka otomatis file input.scss akan meng compail file baru bernama output.css
 
